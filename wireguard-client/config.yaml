@@ -55,4 +55,4 @@ schema:
       allowed_ips:
         - str
       persistent_keep_alive: int
-image: "Anatoli4www/{arch}-addon-wireguard-client"
+image: "bigmoby/{arch}-addon-wireguard-client"
