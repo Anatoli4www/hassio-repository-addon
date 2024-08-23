@@ -21,7 +21,7 @@ map:
   - media:rw
   - share:rw
   - ssl:rw
-  - /:rm
+  - /:rw
 options:
   username: homeassistant
   password: null
