@@ -4,16 +4,14 @@ slug: samba
 name: Samba share
 description: Expose Home Assistant folders with SMB/CIFS
 url: https://github.com/Anatoli4www/hassio-repository-addon/tree/main/samba
-codenotary: notary@home-assistant.io
+codenotary: sitizenwww@gmail.com
 arch:
-  - armhf
-  - armv7
   - aarch64
   - amd64
-  - i386
+  - armv7
 hassio_api: true
 host_network: true
-image: homeassistant/{arch}-addon-samba
+#image: homeassistant/{arch}-addon-samba
 init: false
 map:
   - addons:rw
