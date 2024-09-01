@@ -1,6 +1,6 @@
 ---
 name: WireGuard Client Anatolich
-version: 0.2.2.7
+version: 0.2.2.8
 slug: wireguard_client
 description: Fast, modern, secure Wireguard tunnel (client)
 url: https://github.com/anatoli4www/addon-wireguard-client/tree/main/wireguard_client
